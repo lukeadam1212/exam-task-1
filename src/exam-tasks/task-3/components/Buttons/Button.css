@@ -1,0 +1,17 @@
+button {
+  width: 18rem;
+  height: 2rem;
+  border-radius: 1rem;
+  margin: 0.5rem 0 0.5rem 0;
+  border: 1px solid rgb(28, 161, 242);
+}
+
+.sign-up {
+  background-color: rgb(28, 161, 242);
+  color: white;
+}
+
+.log-in {
+  background-color: white;
+  color: rgb(28, 161, 242);
+}
